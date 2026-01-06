@@ -1,0 +1,25 @@
+site_name: Typical Adventure
+site_description: A Typical Minecraft Modpack
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: lime
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Install: install.md
+  - Mods: mods.md
+  - Performance: performance.md
+  - FAQ: faq.md

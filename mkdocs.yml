@@ -20,6 +20,5 @@ plugins:
 nav:
   - Home: index.md
   - Install: install.md
-  - Mods: mods.md
   - Performance: performance.md
   - FAQ: faq.md

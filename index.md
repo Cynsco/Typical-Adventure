@@ -9,6 +9,4 @@ Typical Adventure focuses on progression, exploration, and quality-of-life impro
 
 ## Quick Links
 - Install
-- Mods
 - Performance
-- FAQ
